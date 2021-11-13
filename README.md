@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA
 - 👯 I like to collaborate on Web Development Projects
 - 😄 Passionate to dive in a world Of ML/AI 
+- ⚡ Fun fact: I am Calmer than You 😅
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
-- ⚡ Fun fact: I am Calmer than You 😅
+
