@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
  -->
 <!-- - 🛰Yeah I am a Explorer 🛫 in Learning  -->
-- 🔭 I’m currently working on my First StartUp
+- 🔭 I’m currently working on a dev project
 - 🌱 I’m currently learning DSA
 - 👯 I like to collaborate on Web Development Projects
 - 😄 Passionate to dive in a world Of ML/AI 
