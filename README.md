@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Phaham</h1>
 <!--  <img align="right" alt="GIF" src="https://saadpasta.github.io/static/media/manOnTable.52be3144.svg" width="500" height="320" /> -->
-<a href="https://app.daily.dev/Phaham1724"><img src="https://api.daily.dev/devcards/23b3213a0d1a4809933725c152d16421.png?r=nqf" width="400" alt="Phaham's Dev Card"/></a>
+<a href="https://app.daily.dev/Phaham1724"><img align="right" src="https://api.daily.dev/devcards/23b3213a0d1a4809933725c152d16421.png?r=nqf" width="400" alt="Phaham's Dev Card"/></a>
 
 <!-- 
 **Phaham/Phaham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
