@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 <br/>
 
 <p align='left'>
- <h3>
+ <h2>
  <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Follow me on:
-  </h3>
+  </h2>
 </p>
 <p align='left'>
-<a href="https://twitter.com/KhanPhaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+&nbsp;<a href="https://twitter.com/KhanPhaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phaham-khan-3472a9202/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://phaham.netlify.app/#home"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 </p>
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align='left'>
- <h3>
+ <h2>
 <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats:
-  </h3>
+  </h2>
 </p>
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
