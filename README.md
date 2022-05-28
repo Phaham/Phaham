@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  -->
 <br />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools:
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
 <br/>
+<br/>
 
-<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">### Follow me on:
-
+<p align='left'>
+## <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Follow me on:
+</p>
 <p align='left'>
 <a href="https://twitter.com/KhanPhaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phaham-khan-3472a9202/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
@@ -51,8 +53,10 @@ Here are some ideas to get you started:
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phaham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phaham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">### My Github Stats
 
+<p align='left'>
+## <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats
+</p>
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Phaham/github-readme-stats"><img alt="Phaham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
