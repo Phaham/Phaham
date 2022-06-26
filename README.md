@@ -21,7 +21,8 @@ Here are some ideas to get you started:
  -->
 <br />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools:
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools: -->
+## 📊 Languages and Tools:
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -40,7 +41,8 @@ Here are some ideas to get you started:
 
 <p align='left'>
  <h2>
- <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Follow me on:
+<!--  <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Follow me on: -->
+  ## 📊 Follow me on:
   </h2>
 </p>
 <p align='left'>
@@ -58,7 +60,8 @@ Here are some ideas to get you started:
 
 <p align='left'>
  <h2>
-<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats:
+<!-- <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats: -->
+## 📊 My Github Stats:
   </h2>
  </p>
   <br/>
