@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <p align='left'>
  <h2>
 <!--  <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Follow me on: -->
-  ## 📊 Follow me on:
+  📊 Follow me on:
   </h2>
 </p>
 <p align='left'>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <p align='left'>
  <h2>
 <!-- <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats: -->
-## 📊 My Github Stats:
+ 📊 My Github Stats:
   </h2>
  </p>
   <br/>
