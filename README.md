@@ -9,9 +9,9 @@ Here are some ideas to get you started:
  -->
 <!-- - 🛰Yeah I am a Explorer 🛫 in Learning  -->
 - 🔭 I’m currently working on a dev project
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DevOps
 - 👯 I like to collaborate on Web Development Projects
-- 😄 Passionate to Learn and Explore things 
+- 😄 Passionate to Learn technologies, building and Explore things 
 - ⚡ Fun fact: I am Calmer than You 😅
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
