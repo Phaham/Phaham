@@ -4,16 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Phaham+Khan)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+Full+Stack+Developer+(Node,+React,+Next,+AWS))](https://git.io/typing-svg)
 
-###### Glad to see you here :heart:
+<!--###### Glad to see you here :heart: -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phaham&label=Profile Views&color=blue&style=plastic" alt="phaham" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phaham&label=Views&color=blue&style=plastic" alt="phaham" /> </p>
-
-
-<!-- 
-**Phaham/Phaham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- -->
 <!-- - 🛰Yeah I am a Explorer 🛫 in Learning  -->
 - 🏢 **Machine Learning Intern at Novixpert Tech Inc.**.
 - 🔭 I’m currently working on **Software Development and Machine Learning** projects
@@ -34,7 +27,7 @@ Here are some ideas to get you started:
 <br />
 
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools: -->
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -59,7 +52,7 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
 <br/>
 
-## Connect with me:
+### Connect with me:
 <p align='left'>
  <h2>
 <!--  <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Follow me on: -->
@@ -82,7 +75,7 @@ Here are some ideas to get you started:
  </p>
   <br/>
    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=444"  height="165"/></a>
-  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117"  height="165" width="500"/></a>
+  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117"  height="165" width="900"/></a>
 
   <br/>
 <br/>
