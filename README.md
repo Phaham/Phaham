@@ -82,8 +82,8 @@
 <!--      <a href="https://github.com/Phaham/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phaham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phaham&theme=black-ice&&show_icons=true&border_color=444&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phaham&theme=react" alt="GitHub Streak" /></a>
-  <br>
+<img src="https://streak-stats.demolab.com?user=phaham&theme=tokyonight&hide_border=true" alt="phaham's GitHub Stats" />
+ <br>
    <a href="https://github.com/phaham/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaham&theme=react-dark&hide_border=true">
   </a>
