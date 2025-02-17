@@ -81,7 +81,7 @@
 <br/>
 
 ### My Contributions
-<p align="center">
+<p align="left">
  <a href="https://git.io/streak-stats" align="middle">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=phaham&theme=react&background=0d1117&border=666">
   </a>
