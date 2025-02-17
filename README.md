@@ -73,8 +73,11 @@
 
 <p align='left'>
   <br/>
-   <a href="https://github.com/Phaham/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=444"  height="165"/></a>
-  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117" height="165"/></a>
+<!--    <a href="https://github.com/Phaham/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=444"  height="165"/></a>
+  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117" height="165"/></a> -->
+
+ <img src="https://github-readme-stats.vercel.app/api?username=phaham&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="phaham's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaham&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="phaham's GitHub Stats" />
   <br/>
 <br/>
 </p>
@@ -84,9 +87,10 @@
 <!--  <a href="https://git.io/streak-stats" align="middle">
     <img src="http://github-readme-streak-stats.vercel.app?user=phaham&theme=react&background=0d1117&border=666">
   </a> -->
-     <a href="https://github.com/Phaham/github-readme-streak-stats">
+<!--      <a href="https://github.com/Phaham/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phaham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phaham&theme=black-ice&&show_icons=true&border_color=444&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a> -->
+ <img src="https://streak-stats.demolab.com?user=phaham&theme=blue-green&hide_border=true" alt="phaham's GitHub Stats" />
   <br>
    <a href="https://github.com/phaham/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaham&theme=react-dark&hide_border=true">
