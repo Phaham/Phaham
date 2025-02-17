@@ -15,7 +15,7 @@
 - ⚔️ Passionate to building new things, learn technologies and Explore things 
 - ⚡ Fun fact: I am Calmer than You!
 - 📫 How to reach me **phahamkhan17@gmail.com**
-- 🙋‍ More about me: Visit my [website](https://phaham.netlify.app/)
+- 🙋‍ More about me: Visit my **[website](https://phaham.netlify.app/)**
 - 👨‍💻 Freelancer
 
 <!-- - 💬 Ask me about ... -->
@@ -76,13 +76,13 @@
 
 ### My Contributions
 <p align="left">
-<!--  <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.vercel.app?user=phaham&theme=react&background=0d1117&border=666">
-  </a> -->
+ <a href="https://git.io/streak-stats" align="middle">
+    <img src="http://streak-stats.demolab.com?user=phaham&theme=react&background=0d1117&border=666">
+  </a>
 <!--      <a href="https://github.com/Phaham/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phaham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phaham&theme=black-ice&&show_icons=true&border_color=444&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a> -->
-<img src="https://streak-stats.demolab.com?user=phaham&theme=tokyonight&hide_border=true" alt="phaham's GitHub Stats" />
+<!--  <img src="https://streak-stats.demolab.com?user=phaham&theme=tokyonight&hide_border=true" alt="phaham's GitHub Stats" /> -->
  <br>
    <a href="https://github.com/phaham/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaham&theme=react-dark&hide_border=true">
@@ -90,8 +90,7 @@
 </p>
 
 <p align="left">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
 
 
