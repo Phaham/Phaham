@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Phaham+Khan)](https://git.io/typing-svg)
 <h3 align="center">.
- <br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+Full+Stack+Developer+(Node,+React,+Next,+AWS))](https://git.io/typing-svg)
 <h3 align="center">.
 
