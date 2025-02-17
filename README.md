@@ -15,7 +15,7 @@
 Here are some ideas to get you started:
  -->
 <!-- - 🛰Yeah I am a Explorer 🛫 in Learning  -->
-- 🏢 ** Machine Learning Intern at Novixpert Tech Inc. **.
+- 🏢 **Machine Learning Intern at Novixpert Tech Inc.**.
 - 🔭 I’m currently working on **Software Development and Machine Learning** projects
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Backend - Node, Flutter, and Machine Learning Projects**
