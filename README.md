@@ -72,18 +72,21 @@
 </p> -->
 
 <p align='left'>
- </p>
   <br/>
    <a href="https://github.com/Phaham/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=444"  height="165"/></a>
   <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117" height="165"/></a>
   <br/>
 <br/>
+</p>
 
 ### My Contributions
 <p align="left">
- <a href="https://git.io/streak-stats" align="middle">
+<!--  <a href="https://git.io/streak-stats" align="middle">
     <img src="http://github-readme-streak-stats.vercel.app?user=phaham&theme=react&background=0d1117&border=666">
-  </a>
+  </a> -->
+     <a href="https://github.com/Phaham/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phaham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phaham&theme=black-ice&&show_icons=true&border_color=444&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
   <br>
    <a href="https://github.com/phaham/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaham&theme=react-dark&hide_border=true">
