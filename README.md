@@ -83,7 +83,7 @@
 ### My Contributions
 <p align="left">
  <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=phaham&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.vercel.app?user=phaham&theme=react&background=0d1117&border=666">
   </a>
   <br>
    <a href="https://github.com/phaham/github-readme-activity-graph">
