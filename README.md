@@ -79,18 +79,18 @@
 
   <br/>
 <br/>
-<h1 align="center"> My Contributions: </h1>
+<h1 align="left"> My Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=phaham&theme=react&background=0d1117&border=666">
   </a>
   <br>
    <a href="https://github.com/phaham/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=phaham&theme=react-dark&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaham&theme=react-dark&hide_border=true">
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
