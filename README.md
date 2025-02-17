@@ -24,7 +24,7 @@
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  -->
-<br />
+<br>
 
 ### Connect with me:
 <p align='left'>
@@ -32,6 +32,8 @@
 <a href="https://www.linkedin.com/in/phaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://phaham.netlify.app/#home"><img height="30" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5"></a>
 </p>
+
+<br>
 
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools: -->
 ### Languages and Tools:
@@ -58,7 +60,7 @@
 <!-- <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />-->
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
 <br/>
-
+<br/>
 <!--<p>
     <a href="https://github.com/Phaham/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phaham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phaham&theme=black-ice&&show_icons=true&border_color=444&hide_border=true&stroke=0000&background=060A0CD0"/>
