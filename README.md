@@ -2,7 +2,7 @@
 ### Hey there :wave:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Phaham+Khan)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+Full+Stack+Developer))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <!--###### Glad to see you here :heart: -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phaham&label=Views&color=blue&style=plastic" alt="phaham" /> </p>
