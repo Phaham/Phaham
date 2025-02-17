@@ -54,11 +54,6 @@
 
 ### Connect with me:
 <p align='left'>
- <h2>
-<!--  <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Follow me on: -->
-  </h2>
-</p> 
-<p align='left'>
 &nbsp;<a href="https://twitter.com/KhanPhaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://phaham.netlify.app/#home"><img height="30" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5"></a>
@@ -87,7 +82,7 @@
 <!--      <a href="https://github.com/Phaham/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phaham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phaham&theme=black-ice&&show_icons=true&border_color=444&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a> -->
- <img src="https://streak-stats.demolab.com?user=phaham&theme=radical&hide_border=true" alt="phaham's GitHub Stats" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=phaham&theme=react)](https://git.io/streak-stats)
   <br>
    <a href="https://github.com/phaham/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaham&theme=react-dark&hide_border=true">
