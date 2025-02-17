@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/phaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://phaham.netlify.app/#home"><img height="30" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5"></a>
 </p>
-<br/>
+
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools: -->
 ### Languages and Tools:
 <p align='left' max-width='600px'>
