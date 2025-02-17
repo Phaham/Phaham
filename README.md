@@ -2,7 +2,8 @@
 ### Hey there :wave:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Phaham+Khan)](https://git.io/typing-svg)
-<h3 align="center">A passionate Full Stack Developer (Node, React, Next, AWS).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+Full+Stack+Developer+(Node,+React,+Next,+AWS))](https://git.io/typing-svg)
+<h3 align="center">.
 
 ###### Glad to see you here :heart:
 
@@ -47,13 +48,15 @@ Here are some ideas to get you started:
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="30px" src="https://www.svgrepo.com/show/354310/sass.svg" />
+<img align="left" alt="Tailwind" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
 <img align="left" alt="MongoDB" width="30px" src="https://www.svgrepo.com/show/354090/mongodb.svg" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Postman" width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="Jira" width="30px" src="https://www.svgrepo.com/show/353935/jira.svg" />
 
 <!-- <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /> -->
 <!-- <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />-->
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
 <br/>
 <br/>
@@ -81,11 +84,11 @@ Here are some ideas to get you started:
  </p>
   <br/>
    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=444" /></a>
-  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Phaham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&layout=compact&theme=react&&border_color=444&bg_color=0D1117" /></a>
+  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&&border_color=444&bg_color=0D1117" /></a>
 
   <br/>
 <br/>
-<h1 align="center"> 🔥 Contributions: </h1>
+<h1 align="center"> My Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=phaham&theme=react&background=0d1117&border=666">
