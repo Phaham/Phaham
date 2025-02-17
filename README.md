@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+Full+Stack+Developer+(Node,+React,+Next,+AWS))](https://git.io/typing-svg)
 
 <!--###### Glad to see you here :heart: -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phaham&label=Profile Views&color=blue&style=plastic" alt="phaham" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phaham&label=Views&color=blue&style=plastic" alt="phaham" /> </p>
 
 <!-- - 🛰Yeah I am a Explorer 🛫 in Learning  -->
 - 🏢 **Machine Learning Intern at Novixpert Tech Inc.**.
@@ -75,7 +75,7 @@
  </p>
   <br/>
    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=444"  height="165"/></a>
-  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117"  height="165" width="900"/></a>
+  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117"  height="165"/></a>
 
   <br/>
 <br/>
@@ -85,9 +85,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=phaham&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="https://github.com/phaham/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=phaham&theme=react-dark&hide_border=true">
-  </a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phaham&bg_color=525152&color=ffffff&line=1be4c3&point=1d1e20&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <p align="center">
