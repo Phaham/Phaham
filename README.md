@@ -2,7 +2,7 @@
 ### Hey there :wave:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Phaham+Khan)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+Full+Stack+Developer+(Node,+React,+Next,+AWS))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+Full+Stack+Developer+(+Node+,+React+,+Next+,+AWS))](https://git.io/typing-svg)
 
 <!--###### Glad to see you here :heart: -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phaham&label=Views&color=blue&style=plastic" alt="phaham" /> </p>
@@ -28,7 +28,7 @@
 
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools: -->
 ### Languages and Tools:
-
+<p align='left' max-width='600px'>
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Nextjs" width="30px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
@@ -46,7 +46,7 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Postman" width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="Jira" width="30px" src="https://www.svgrepo.com/show/353935/jira.svg" />
-
+</p>
 <!-- <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /> -->
 <!-- <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />-->
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
