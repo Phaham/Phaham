@@ -75,11 +75,12 @@
  </p>
   <br/>
    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=444"  height="165"/></a>
-  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117"  height="165"/></a>
+  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117" height="165"/></a>
 
   <br/>
 <br/>
-<h1 align="left"> My Contributions: </h1>
+
+### My Contributions
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=phaham&theme=react&background=0d1117&border=666">
