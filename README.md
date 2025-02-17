@@ -85,7 +85,9 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=phaham&theme=react&background=0d1117&border=666">
   </a>
   <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phaham&bg_color=525152&color=ffffff&line=1be4c3&point=1d1e20&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <a href="https://github.com/phaham/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=phaham&theme=react-dark&hide_border=true">
+  </a>
 </p>
 
 <p align="center">
