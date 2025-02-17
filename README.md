@@ -58,14 +58,13 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />-->
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
 <br/>
-<br/>
 
+## Connect with me:
 <p align='left'>
  <h2>
 <!--  <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Follow me on: -->
-## Connect with me:
   </h2>
-</p>
+</p> 
 <p align='left'>
 &nbsp;<a href="https://twitter.com/KhanPhaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phaham"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -83,7 +82,7 @@ Here are some ideas to get you started:
  </p>
   <br/>
    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Phaham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phaham&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=444"  height="165"/></a>
-  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117"  height="165"/></a>
+  <a href="https://github.com/Phaham/github-readme-stats"><img align 'right' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaham&langs_count=8&count_private=true&theme=react&layout=compact&border_color=444&bg_color=0D1117"  height="165" width="500"/></a>
 
   <br/>
 <br/>
