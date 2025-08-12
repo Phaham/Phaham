@@ -34,7 +34,21 @@
 </p>
 
 
+## Tech Stack
+Property | Data
+--- | --- 
+**Language** | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=%3178c6) ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=typescript&logoColor=%3178c6)
+**Web Technologies**  | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)
+**Frameworks, Platforms and Libraries** | ![Node.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=%230081CB) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css&logoColor=%2338B2AC) ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0769ad)  ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite) ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=%23593d88)       
+**Databases**  | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MySql) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=MySql) ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)
+**OS**  | ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D6) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)
+**Tools and Hosting**  | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=%23430098) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify) ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)
+**IDEs / Editors** | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=Atom&logoColor=%2366595C) ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=Pycharm&logoColor=a1eb34)
+**Others** | ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=Latex&logoColor=1f8f75)
+
+
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools: -->
+<!--
 ### Languages and Tools:
 <p align='left' max-width='600px'>
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -47,17 +61,20 @@
 <img align="left" alt="AWS" width="30px" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"/>
 </p>
 <!-- <br/> -->
+<!--
 <p align='left' max-width='600px'>
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="30px" src="https://www.svgrepo.com/show/354310/sass.svg" />
-<img align="left" alt="Tailwind" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+<!-- <img align="left" alt="Tailwind" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg" /> -->
+<!--
 <img align="left" alt="MongoDB" width="30px" src="https://www.svgrepo.com/show/354090/mongodb.svg" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Postman" width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="Jira" width="30px" src="https://www.svgrepo.com/show/353935/jira.svg" />
 </p>
+-->
 <!-- <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /> -->
 <!-- <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />-->
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
