@@ -35,7 +35,8 @@
 
 
 ### Tech Stack
-
+Property | Data
+--- | --- 
 **Languages** | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=%3178c6) ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=%3178c6)
 **Web Technologies**  | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)
 **Frameworks, Platforms and Libraries** | ![Express.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=express.js&logoColor=563D7C) ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=%230081CB) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css&logoColor=%2338B2AC) ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0769ad)  ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite) ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=%23593d88)       
