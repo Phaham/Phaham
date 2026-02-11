@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I am Calmer than You!
 - 📫 How to reach me **phahamkhan17@gmail.com**
 - 🙋‍ More about me: Visit my **[website](https://phaham.netlify.app/)**
-- 👨‍💻 Freelancer
+<!--- 👨‍💻 Freelancer -->
 
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
