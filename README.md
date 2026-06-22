@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phaham&label=Views&color=blue&style=plastic" alt="phaham" /> </p>
 
 <!-- - 🛰Yeah I am a Explorer 🛫 in Learning  -->
-- 🏢 **Software & Machine Learning Intern at Novixpert Tech Inc.**.
+- 🏢 **Software Engineer@CipherSchools Ex Novixpert**.
 - 🔭 I’m currently working on **Software Development and Machine Learning** projects
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Backend - Node, Flutter, and Machine Learning Projects**
