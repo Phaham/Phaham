@@ -14,7 +14,6 @@
 <!-- - 🛰Yeah I am a Explorer 🛫 in Learning  -->
 - 🏢 **Software Engineer@CipherSchools, Ex Novixpert**.
 - 🔭 I’m currently working on **Software Development and Machine Learning** projects
-- 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Backend - Node, Flutter, and Machine Learning Projects**
 - ⚔️ Passionate to building new things, learn technologies and Explore things 
 - ⚡ Fun fact: I am Calmer than You!
