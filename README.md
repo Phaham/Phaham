@@ -29,13 +29,14 @@
  -->
 <br>
 
+<!--
 ### Connect with me:
 <p align='left'>
 &nbsp;<a href="https://twitter.com/KhanPhaham"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phaham"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://phaham.netlify.app/#home"><img height="25" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5"></a>
 </p>
-
+-->
 
 ### Tech Stack
 Property | Data
